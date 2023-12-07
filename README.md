@@ -23,3 +23,4 @@
    <a href="https://www.linkedin.com/in/giovani-dalmas-0048812a2" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </div>
 
+![Snake animation](https://github.com/TailiniSoaresWinck/TailiniSoaresWinck/blob/output/github-contribution-grid-snake.svg)
